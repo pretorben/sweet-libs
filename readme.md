@@ -58,4 +58,6 @@ Also, please include the instructions necessary to:
 - Your comfort score (out of 5)
 - Any particular sections of your code that you would like the instructors to review, and specific questions to guide our feedback.
 
+**4:00: ALL STUDENTS** should take the next half-hour to review other students' submissions.
+
 **4:30: ALL STUDENTS** will re-convene in their classroom to debrief.
