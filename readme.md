@@ -53,7 +53,7 @@ Also, please include the instructions necessary to:
 
 ## Timeline
 
-**NO LATER THAN 11:00am: ALL STUDENTS** must *individually* complete [this survey](https://docs.google.com/a/generalassemb.ly/forms/d/1ubxuWbnwwUDAmu3HwpdlbmjCkCkIO1tSrnWtLvSfZYY/viewform?usp=send_form) asking you / your group's name (see the form for details) and what you're studying.
+**NO LATER THAN 10:00am: ALL STUDENTS** must *individually* complete [this survey](https://docs.google.com/a/generalassemb.ly/forms/d/1ubxuWbnwwUDAmu3HwpdlbmjCkCkIO1tSrnWtLvSfZYY/viewform?usp=send_form) asking you / your group's name (see the form for details) and what you're studying.
 
 [Responses may be seen here.](https://docs.google.com/spreadsheets/d/1EoHMEHwg_9-dxg9AZ6oYf21f187VHEKrBRf5CQq0TXU/pubhtml)
 
