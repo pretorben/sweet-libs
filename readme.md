@@ -2,6 +2,8 @@
 
 Today is an all-day structured exercise in developing the skill you're likely to use most in the Industry: teaching yourself something new.
 
+**Note: The deliverable for this (see below) counts as one homework grade.**
+
 By yourself or in a group, please pick a useful library or technology we have not covered in class. Then:
 
 ### Build something
