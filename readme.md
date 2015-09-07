@@ -57,7 +57,7 @@ Also, please include the instructions necessary to:
 
 [Responses may be seen here.](https://docs.google.com/spreadsheets/d/1EoHMEHwg_9-dxg9AZ6oYf21f187VHEKrBRf5CQq0TXU/pubhtml)
 
-**NO LATER THAN 11:00: ALL STUDENTS** must submit a Git issue to the `teach_yourself` repository containing a link to their / their group's main repository. The issue must also include:
+**NO LATER THAN 2:00: ALL STUDENTS** must submit a Git issue to the `teach_yourself` repository containing a link to their / their group's main repository. The issue must also include:
 
 - Your comfort score (out of 5)
 - Any particular sections of your code that you would like the instructors to review, and specific questions to guide our feedback.
