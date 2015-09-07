@@ -29,6 +29,8 @@ In your Github repository, include a `readme.md` that answers the following ques
   - Who is maintaining it?
 - What is your opinion on the technology after having built something with it?
 - What are the biggest conceptual hurdles (if any) you encountered when researching this?
+- What resources do you recommend for interested students?
+  - What article or forum was most helpful to you in learning this?
 - What are 3 interview questions one might be asked about this technology?
 
 Also, please include the instructions necessary to:
