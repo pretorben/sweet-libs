@@ -10,7 +10,7 @@ By yourself or with one or more others of your choosing, please pick a useful li
 
 ...that demonstrates your subject. It should:
 - Be published to a Github repository.
-- Be very small, with no more than 50 total lines of code, if possible (excluding comments).
+- Be very small, with no more than 50 total lines of code, if possible (**excluding comments**).
 - Be well-commented with notes.
 - Be a good example of why someone might want to use your code.
 - **Not** follow the [DTROTFO](https://i.imgur.com/RadSf.jpg) methodology.
