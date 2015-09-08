@@ -62,6 +62,6 @@ Also, please include the instructions necessary to:
 - Your comfort score (out of 5)
 - Any particular sections of your code that you would like the instructors to review, and specific questions to guide our feedback.
 
-**2:00: ALL STUDENTS** should take the next half-hour to review other students' submissions.
+**NO LATER THAN 2:30: ALL STUDENTS** must leave at least one comment on at least one other students' **issue** asking a question about what they studied -- their code example or their documentation. That's a pretty light order for the commenter, but extremely helpful for the commentee! See if you can push yourself to leave comments on 3 different repos. Take this opportunity to review what others studied and see how much you can learn.
 
 **2:30: ALL STUDENTS** will re-convene in their classroom to debrief.
