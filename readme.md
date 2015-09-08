@@ -51,6 +51,13 @@ Also, please include the instructions necessary to:
 - Web Sockets and Socket.IO
 - Ember.js
 
+## Grouping
+It's no secret that learning on your own is something you can do outside of GA. However, more often than not, you will be expected to learn things on your own in a vacuum. This is an exercise in *learning to learn*, rather than in learning a new technology. You'll get the greatest amount of value collaborating with someone else: note what they picked up and how.
+
+Additionally, you'll have to do a fraction of the work: one person can work on the documentation, another can work on the example code, and so on. For those of you concerned with completing other work, that would be to your advantage.
+
+That said, we left the groupings open-ended to provide an opportunity for those who really want some dedicated time to research a topic to do so at their leisure. But for the rest of you, grouping will provide a definite long-term advantage.
+
 ## Timeline
 
 **NO LATER THAN 10:00am: ALL STUDENTS** must *individually* complete [this survey](https://docs.google.com/forms/d/1KjVHvcUXLot85EvQLWj5kezoW4v3AeVaEPpYAfk3UZ8/viewform?usp=send_form) asking you / your group's name (see the form for details) and what you're studying.
