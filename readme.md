@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
 # Sweet Libs
-=======
-# Sweet Lib Day
->>>>>>> Stashed changes
 
 Today is an all-day structured exercise in developing the skill you're likely to use most in the Industry: teaching yourself something new.
 
@@ -72,17 +68,6 @@ Additionally, you'll have to do a fraction of the work: one person can work on t
 
 That said, we left the groupings open-ended to provide an opportunity for those who really want some dedicated time to research a topic to do so at their leisure. But for the rest of you, grouping will provide a definite long-term advantage.
 
-## Timeline
-
-**NO LATER THAN 11:00am: EACH TEAM** must indicate what technology they have chosen on the whiteboard in CR5.
-
-**NO LATER THAN 3:00pm: EACH TEAM** must submit a Git issue to the `sweet_libs` repository containing a link to their / their group's main repository. The issue must also include...
-
-- Your comfort score (out of 5).
-- Any particular sections of your code that you would like the instructors to review, and specific questions to guide our feedback.
-
-**3:30pm: ALL STUDENTS** will re-convene in their classroom for presentations.
-
 ## Presentations
 
 Each group will have 10 minutes to present what they learned and demo their application.
@@ -96,3 +81,14 @@ Some questions you could answer as part of your presentation are:
 - What kind of apps are best suited for this technology?
 - What application did you build?
 - What do you most like about this technology / what do most not like about it?
+
+## Timeline
+
+**NO LATER THAN 11:00am: EACH TEAM** must indicate what technology they have chosen on the whiteboard in CR5.
+
+**NO LATER THAN 3:00pm: EACH TEAM** must submit a Git issue to the `sweet_libs` repository containing a link to their / their group's main repository. The issue must also include...
+
+- Your comfort score (out of 5).
+- Any particular sections of your code that you would like the instructors to review, and specific questions to guide our feedback.
+
+**3:30pm: ALL STUDENTS** will re-convene in their classroom for presentations.
