@@ -86,7 +86,7 @@ Some questions you could answer as part of your presentation are:
 
 **NO LATER THAN 11:00am: EACH TEAM** must indicate what technology they have chosen on the whiteboard in CR5.
 
-**NO LATER THAN 3:00pm: EACH TEAM** must submit a Git issue to the `sweet_libs` repository containing a link to their / their group's main repository. The issue must also include...
+**NO LATER THAN 3:00pm: EACH TEAM** must submit a Git issue to the `sweet-libs` repository containing a link to their / their group's main repository. The issue must also include...
 
 - Your comfort score (out of 5).
 - Any particular sections of your code that you would like the instructors to review, and specific questions to guide our feedback.
