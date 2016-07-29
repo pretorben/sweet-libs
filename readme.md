@@ -1,4 +1,4 @@
-# Teach Yourself, Teach Us
+# Sweet Libs
 
 Today is an all-day structured exercise in developing the skill you're likely to use most in the Industry: teaching yourself something new.
 
