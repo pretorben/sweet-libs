@@ -43,12 +43,14 @@ Also, please include the instructions necessary to:
   - Do I need to include it in my HTML with `<script>` tags? Do I need to `brew install` anything? Can I deploy it to Heroku?
 
 ## Suggestions for subjects
-- React.js
+
+- Phaser JS
+- Three.js
+- Angular 2
+- Vue.js
 - Meteor.js
 - Python/Django
 - Drupal/WordPress/PHP
-- MongoDB && Mongoose
-- Web Sockets and Socket.IO
 - Ember.js
 
 ## Grouping
