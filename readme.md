@@ -6,16 +6,18 @@ Today is an all-day structured exercise in developing the skill you're likely to
 
 By yourself or with one or more others of your choosing, please pick a useful library or technology we have not covered in class. Then:
 
-### Build something
+### Build Something
 
-...that demonstrates your subject. It should:
+Create an app that demonstrates your subject. It should...
 - Be published to a Github repository.
 - Be very small, with no more than 50 total lines of code, if possible (**excluding comments**).
 - Be well-commented with notes.
 - Be a good example of why someone might want to use your code.
-- **Not** follow the [DTROTFO](https://i.imgur.com/RadSf.jpg) methodology.
+- **DO NOT** follow the [DTROTFO](https://i.imgur.com/RadSf.jpg) methodology.
 
-### Document it
+> Once you complete all the above requirements, you may go on to build something larger than 50 lines if you'd like.
+
+### Document It
 
 In your Github repository, include a `readme.md` that answers the following questions regarding your subject. No need to write a book!
 
@@ -35,25 +37,31 @@ In your Github repository, include a `readme.md` that answers the following ques
   - What article or forum was most helpful to you in learning this?
 - What are 3 interview questions one might be asked about this technology?
 
-Also, please include the instructions necessary to:
+Also, please include the instructions necessary to...
 
 - Run your example.
   - Do I need to run `bower install`? Do I need an API key?
 - Use your subject.
   - Do I need to include it in my HTML with `<script>` tags? Do I need to `brew install` anything? Can I deploy it to Heroku?
 
-## Suggestions for subjects
+## Suggestions for Subjects
 
-- Phaser JS
-- Three.js
-- Angular 2
-- Vue.js
-- Meteor.js
-- Python/Django
-- Drupal/WordPress/PHP
-- Ember.js
+You may chose from but are not limited to following...
+
+- [Phaser JS](http://phaser.io/)
+- [Three.js](http://threejs.org/)
+- [Angular 2](https://angular.io/)
+- [Vue.js](https://vuejs.org/)
+- [Meteor](https://www.meteor.com/)
+- [Ember.js](http://emberjs.com/)
+- [Backbone](http://backbonejs.org/)
+- Python / [Django](https://www.djangoproject.com/)
+- [Elm](http://elm-lang.org/)
+
+> **DO NOT** pick React since we will be learning about that next week.
 
 ## Grouping
+
 It's no secret that learning on your own is something you can do outside of GA. However, more often than not, you will be expected to learn things on your own in a vacuum. This is an exercise in *learning to learn*, rather than in learning a new technology. You'll get the greatest amount of value collaborating with someone else: note what they picked up and how.
 
 Additionally, you'll have to do a fraction of the work: one person can work on the documentation, another can work on the example code, and so on. For those of you concerned with completing other work, that would be to your advantage.
@@ -66,9 +74,9 @@ That said, we left the groupings open-ended to provide an opportunity for those 
 
 [Responses may be seen here.](https://docs.google.com/spreadsheets/d/1-JXmyVGUhxWcm_vNGLcer9MPWoa1S7OCnEXhVQLAjjY/pubhtml)
 
-**NO LATER THAN 4:00pm: ALL STUDENTS** must submit a Git issue to the `teach_yourself` repository containing a link to their / their group's main repository. The issue must also include:
+**NO LATER THAN 3:00pm: ALL STUDENTS** must submit a Git issue to the `teach_yourself` repository containing a link to their / their group's main repository. The issue must also include:
 
-- Your comfort score (out of 5)
+- Your comfort score (out of 5).
 - Any particular sections of your code that you would like the instructors to review, and specific questions to guide our feedback.
 
 **NO LATER THAN 4:30pm: ALL STUDENTS** must leave at least one comment on at least one other students' **issue** asking a question about what they studied -- their code example or their documentation. That's a pretty light order for the commenter, but extremely helpful for the commentee! See if you can push yourself to leave comments on 3 different repos. Take this opportunity to review what others studied and see how much you can learn.
