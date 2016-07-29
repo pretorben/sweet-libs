@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 # Sweet Libs
+=======
+# Sweet Lib Day
+>>>>>>> Stashed changes
 
 Today is an all-day structured exercise in developing the skill you're likely to use most in the Industry: teaching yourself something new.
 
@@ -78,3 +82,17 @@ That said, we left the groupings open-ended to provide an opportunity for those 
 - Any particular sections of your code that you would like the instructors to review, and specific questions to guide our feedback.
 
 **3:30pm: ALL STUDENTS** will re-convene in their classroom for presentations.
+
+## Presentations
+
+Each group will have 10 minutes to present what they learned and demo their application.
+
+Some questions you could answer as part of your presentation are:
+
+- Why does this technology exist / what problem does it solve?
+- Who built it / who maintains it?
+- How does this technology compare to anything we have learned in class so far?
+- Where did you go to learn this technology / what are some good resources out there?
+- What kind of apps are best suited for this technology?
+- What application did you build?
+- What do you most like about this technology / what do most not like about it?
