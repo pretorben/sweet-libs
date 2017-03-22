@@ -68,27 +68,15 @@ Additionally, you'll have to do a fraction of the work: one person can work on t
 
 That said, we left the groupings open-ended to provide an opportunity for those who really want some dedicated time to research a topic to do so at their leisure. But for the rest of you, grouping will provide a definite long-term advantage.
 
-## Presentations
+**The only limitation to grouping is that a team can have a maximum of three people.**
 
-Each group will have 10 minutes to present what they learned and demo their application.
+## Deliverables
 
-Some questions you could answer as part of your presentation are:
+**NO LATER THAN 11:00AM:** Each team must submit a Git issue to the `sweet-libs` repository indicating...
+- What technology you are learning
+- Who is on the team
 
-- Why does this technology exist / what problem does it solve?
-- Who built it / who maintains it?
-- How does this technology compare to anything we have learned in class so far?
-- Where did you go to learn this technology / what are some good resources out there?
-- What kind of apps are best suited for this technology?
-- What application did you build?
-- What do you most like about this technology / what do most not like about it?
-
-## Timeline
-
-**NO LATER THAN 11:00am: EACH TEAM** must indicate what technology they have chosen on the whiteboard in CR5.
-
-**NO LATER THAN 3:00pm: EACH TEAM** must submit a Git issue to the `sweet-libs` repository containing a link to their / their group's main repository. The issue must also include...
-
-- Your comfort score (out of 5).
-- Any particular sections of your code that you would like the instructors to review, and specific questions to guide our feedback.
-
-**3:30pm: ALL STUDENTS** will re-convene in their classroom for presentations.
+**NO LATER THAN 5:00PM:** The issue must be updated to include...
+- A link to the your main repository
+- A comfort score (out of 5)
+- A reference to any particular sections of your code that you would like the instructors to review, and specific questions to guide instructor feedback
