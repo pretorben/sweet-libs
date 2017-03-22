@@ -4,9 +4,19 @@
 
 Today is an all-day structured exercise in developing the skill you're likely to use most in the Industry: teaching yourself something new.
 
-By yourself or with one or more others of your choosing, please pick a useful library or technology we have not covered in class. Then...
+By yourself or with one or more others of your choosing, please pick a useful library or technology we have not covered in class.
 
-### Build Something
+## Grouping
+
+It's no secret that learning on your own is something you can do outside of GA. However, more often than not, you will be expected to learn things on your own in a vacuum. This is an exercise in *learning to learn*, rather than in learning a new technology. You'll get the greatest amount of value collaborating with someone else: note what they picked up and how.
+
+Additionally, you'll have to do a fraction of the work: one person can work on the documentation, another can work on the example code, and so on.
+
+That said, we left the groupings open-ended to provide an opportunity for those who really want some dedicated time to research a topic to do so at their leisure. But for the rest of you, grouping will provide a definite long-term advantage.
+
+**The only limitation to grouping is that a team can have a maximum of three people.**
+
+## Build Something
 
 Create an app that demonstrates your subject. It should...
 - Be published to a Github repository.
@@ -17,7 +27,7 @@ Create an app that demonstrates your subject. It should...
 
 > Once you complete all the above requirements, you may go on to build something larger than 50 lines if you'd like.
 
-### Document It
+## Document It
 
 Your repository must include a `readme.md` that answers the following questions regarding your subject. No need to write a book!
 
@@ -60,16 +70,6 @@ You may chose from but are not limited to following...
 
 > **DO NOT** pick React since we will be learning about that next week.
 
-## Grouping
-
-It's no secret that learning on your own is something you can do outside of GA. However, more often than not, you will be expected to learn things on your own in a vacuum. This is an exercise in *learning to learn*, rather than in learning a new technology. You'll get the greatest amount of value collaborating with someone else: note what they picked up and how.
-
-Additionally, you'll have to do a fraction of the work: one person can work on the documentation, another can work on the example code, and so on. For those of you concerned with completing other work, that would be to your advantage.
-
-That said, we left the groupings open-ended to provide an opportunity for those who really want some dedicated time to research a topic to do so at their leisure. But for the rest of you, grouping will provide a definite long-term advantage.
-
-**The only limitation to grouping is that a team can have a maximum of three people.**
-
 ## Deliverables
 
 **NO LATER THAN 11:00AM:** Each team must submit a Git issue to the `sweet-libs` repository indicating...
@@ -79,4 +79,4 @@ That said, we left the groupings open-ended to provide an opportunity for those 
 **NO LATER THAN 5:00PM:** The issue must be updated to include...
 - A link to your main repository that contains a `readme.md` and code
 - A comfort score (out of 5)
-- A reference to any particular sections of your code that you would like the instructors to review, and specific questions to guide instructor feedback
+- **(Optional)** A reference to any particular sections of your code that you would like the instructors to review, and specific questions to guide instructor feedback
