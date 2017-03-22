@@ -19,7 +19,7 @@ Create an app that demonstrates your subject. It should...
 
 ### Document It
 
-In your Github repository, include a `readme.md` that answers the following questions regarding your subject. No need to write a book!
+Your repository must include a `readme.md` that answers the following questions regarding your subject. No need to write a book!
 
 - Why did you choose this subject?
   - How were you first made aware of it?
@@ -77,6 +77,6 @@ That said, we left the groupings open-ended to provide an opportunity for those 
 - Who is on the team
 
 **NO LATER THAN 5:00PM:** The issue must be updated to include...
-- A link to the your main repository
+- A link to your main repository that contains a `readme.md` and code
 - A comfort score (out of 5)
 - A reference to any particular sections of your code that you would like the instructors to review, and specific questions to guide instructor feedback
