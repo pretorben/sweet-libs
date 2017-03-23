@@ -1,7 +1,5 @@
 # Sweet Libs
 
-> **Note: The deliverable for this assignment counts as one homework grade.**
-
 Today is an all-day structured exercise in developing the skill you're likely to use most in the Industry: teaching yourself something new.
 
 By yourself or with one or more others of your choosing, please pick a useful library or technology we have not covered in class.
